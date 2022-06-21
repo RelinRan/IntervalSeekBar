@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="barRadius" format="dimension" />
+    <attr name="lineWidth" format="dimension" />
+    <attr name="leftProgress" format="integer" />
+    <attr name="rightProgress" format="integer" />
+    <attr name="marginHorizontal" format="dimension" />
+    <attr name="marginVertical" format="dimension" />
+    <attr name="barColor" format="color" />
+    <attr name="seekBackgroundColor" format="color" />
+    <attr name="seekProgressColor" format="color" />
+    <declare-styleable name="IntervalSeekBar">
+        <attr name="barRadius" />
+        <attr name="lineWidth" />
+        <attr name="leftProgress" />
+        <attr name="rightProgress" />
+        <attr name="marginHorizontal" />
+        <attr name="marginVertical" />
+        <attr name="barColor" />
+        <attr name="seekBackgroundColor" />
+        <attr name="seekProgressColor" />
+    </declare-styleable>
+</resources>
